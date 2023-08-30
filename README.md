@@ -8,6 +8,6 @@ This game as up to 4 players. Players must roll a 6 to release one piece from th
 Please install all files located in this repository. Run *Start.mlapp* file to run the game. **Disclaimer:** Matlab license is required to run the Matlab application.
 
 ## Contributors
-Rahul Lakshmanan (Team Leader)
-Alan Rotich
-Brandon Ascher
+- Rahul Lakshmanan (Team Leader)
+- Alan Rotich
+- Brandon Ascher
